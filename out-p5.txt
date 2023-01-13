@@ -1,0 +1,4 @@
+ mediaidade | maxidade | minidade 
+------------+----------+----------
+      28.00 |       42 |       21
+(1 row)

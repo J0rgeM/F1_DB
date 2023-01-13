@@ -1,0 +1,17 @@
+     marca      |        circuito         |      pais      
+----------------+-------------------------+----------------
+ Red Bull       | Red Bull Ring           | Austria
+ Haas           | Circuito das Americas   | Estados Unidos
+ Monster Energy | Circuito das Americas   | Estados Unidos
+ Oracle         | Circuito das Americas   | Estados Unidos
+ Cognizant      | Circuito das Americas   | Estados Unidos
+ Alpine         | Circuito Paul Ricard    | Franca
+ Marelli        | Circuito de Mugello     | Italia
+ Pirelli        | Circuito de Mugello     | Italia
+ Carrera        | Circuito de Mugello     | Italia
+ Ferrari        | Circuito de Mugello     | Italia
+ Honda          | Circuito de Suzuka      | Japao
+ Aston Martin   | Circuito de Silverstone | Reino Unido
+ McLaren        | Circuito de Silverstone | Reino Unido
+ Uralkali       | Autodromo de Sochi      | Russia
+(14 rows)

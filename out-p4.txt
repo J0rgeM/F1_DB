@@ -1,0 +1,7 @@
+       nome       | montante 
+------------------+----------
+ Daniel Ricciardo | 35478952
+ Sergio Perez     | 22314587
+ Carlos Sainz Jr  | 54789652
+ Mick Schumacher  | 36985214
+(4 rows)

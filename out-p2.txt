@@ -1,0 +1,6 @@
+              nome               | count 
+----------------------------------+-------
+ Circuito de Mugello              |     3
+ Circuito Internacional de Losail |     3
+ Red Bull Ring                    |     2
+(3 rows)

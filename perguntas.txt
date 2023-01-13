@@ -1,0 +1,9 @@
+p1: Qual o nome e o tipo das equipas que participaram no campeonato da temporada de 2021?
+
+p2: Quais os circuitos com mais do que uma presença em todas as temporadas?
+
+p3: Quais são as marcas em que existe um circuito no mesmo país? Ordene por alfabética os países.
+
+p4: Quais são os pilotos cujo o valor da transferência é superior a quinze milhões?
+
+p5: Qual é a idade mínima, a idade máxima e a média das idades dos pilotos?
